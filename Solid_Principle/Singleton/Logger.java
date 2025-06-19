@@ -1,3 +1,5 @@
+package Solid_Principle.Singleton;
+
 public class Logger{
     private static Logger instance;
     private Logger(){

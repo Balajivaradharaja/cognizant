@@ -1,3 +1,5 @@
+package Solid_Principle.Singleton;
+
 public class Main {
     public static void main(String[] args) {
         Logger logger1 = Logger.getInstance();
